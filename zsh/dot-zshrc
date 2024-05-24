@@ -128,6 +128,7 @@ export PYENV_ROOT="$HOME/.pyenv"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias drop="ssh root@143.198.151.39"
 #
 ### Added by Zinit's installer
 if [[ ! -f $HOME/.local/share/zinit/zinit.git/zinit.zsh ]]; then
