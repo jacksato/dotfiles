@@ -129,6 +129,7 @@ export PYENV_ROOT="$HOME/.pyenv"
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias drop="ssh root@143.198.151.39"
+alias applts="rsync -av ~/primary/ucla/00_currentq/evictionApp root@143.198.151.39:/srv/shiny-server"
 #
 ### Added by Zinit's installer
 if [[ ! -f $HOME/.local/share/zinit/zinit.git/zinit.zsh ]]; then
