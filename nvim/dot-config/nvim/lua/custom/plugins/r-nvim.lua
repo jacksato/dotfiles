@@ -16,8 +16,8 @@ return {
       insert_mode_cmd = true,
       min_editor_width = 72,
       rconsole_width = 78,
-      pipe_keymap = '',
-      assignment_keymap = '_',
+      pipe_keymap = '<M-t>',
+      assignment_keymap = '|',
       disable_cmds = {
         'RClearConsole',
         'RCustomStart',
